@@ -8,7 +8,7 @@
             <value value="8793cb88" />
           </Key>
         </key>
-        <name value="Xiaomi 23028RA60L" />
+        <name value="Xiaomi Device" />
         <target value="Android API 34" />
         <api value="androidversion:34:null:null:true" />
       </PhysicalDevice>
