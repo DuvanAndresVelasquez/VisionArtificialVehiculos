@@ -23,6 +23,17 @@
         <target value="Android API 34" />
         <api value="androidversion:34:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="ZT322M2WWH" />
+          </Key>
+        </key>
+        <name value="motorola moto g24" />
+        <target value="Android API 34" />
+        <api value="androidversion:34:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
