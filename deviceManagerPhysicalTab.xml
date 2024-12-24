@@ -19,9 +19,8 @@
             <value value="adb-8793cb88-ZKsbJu._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <name value="Xiaomi 23028RA60L" />
-        <target value="Android API 34" />
-        <api value="androidversion:34:null:null:true" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
