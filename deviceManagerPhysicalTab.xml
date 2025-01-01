@@ -33,6 +33,17 @@
         <target value="Android API 34" />
         <api value="androidversion:34:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-JB8PVWQ8YSFYCES8-POEHiZ._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="OPPO CPH2387" />
+        <target value="Android API 34" />
+        <api value="androidversion:34:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
