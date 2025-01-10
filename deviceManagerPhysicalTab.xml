@@ -44,6 +44,28 @@
         <target value="Android API 34" />
         <api value="androidversion:34:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-AGPLUT4A11000212-PvdERe._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="HONOR ELP-NX9" />
+        <target value="Android API 34" />
+        <api value="androidversion:34:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="AGPLUT4A11000212" />
+          </Key>
+        </key>
+        <name value="HONOR ELP-NX9" />
+        <target value="Android API 34" />
+        <api value="androidversion:34:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
